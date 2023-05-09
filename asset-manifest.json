@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cicd/static/css/main.c20d4213.css",
+    "main.js": "/cicd/static/js/main.ac5b2e01.js",
+    "index.html": "/cicd/index.html",
+    "main.c20d4213.css.map": "/cicd/static/css/main.c20d4213.css.map",
+    "main.ac5b2e01.js.map": "/cicd/static/js/main.ac5b2e01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c20d4213.css",
+    "static/js/main.ac5b2e01.js"
+  ]
+}
